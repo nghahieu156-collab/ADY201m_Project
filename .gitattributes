@@ -1,0 +1,4 @@
+olist_geolocation_dataset.csv filter=lfs diff=lfs merge=lfs -text
+olist_orders_dataset.csv filter=lfs diff=lfs merge=lfs -text
+olist_order_items_dataset.csv filter=lfs diff=lfs merge=lfs -text
+olist_order_reviews_dataset.csv filter=lfs diff=lfs merge=lfs -text
